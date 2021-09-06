@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpita-B
 - 👀 I’m interested in Data Analytics, Machine Learning, Deep Learning
-- 🌱 I’m currently learning tensor flow, open cv, CNN
+- 🌱 I’m currently exloring more projects of Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me profarpitab@gmail.com
 
